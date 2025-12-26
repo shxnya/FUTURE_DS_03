@@ -18,9 +18,9 @@ Data cleaning, sentiment analysis, NLP insights & visualization of student feedb
 ## 📁 Files
 | File | Description |
 |------|------------|
-| analysis_final.ipynb | Complete analysis |
+|task3.ipynb | Complete analysis |
 | student_feedback.csv | Dataset |
-| requirements.txt | Dependencies |
+
 
 ## 🙋‍♂️ Author
 Sharanya Bhat
